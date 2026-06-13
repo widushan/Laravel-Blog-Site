@@ -1,0 +1,1 @@
+<img class="h-20 w-75" src="/blog_logo.svg" alt="">

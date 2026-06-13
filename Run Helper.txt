@@ -1,0 +1,23 @@
+blogapp test account
+name - pasindu
+mail - pasindu1234@gmail.com
+password - Pasi@2001
+
+kavishka
+kavishka2001@gmail.com
+Kavi@1234
+
+
+Flowbite for tailwindCss UI components
+
+For Icons -> HeroIcons
+
+
+Alpine framework for get no of followers
+
+spatie for media library
+-> composer require "spatie/laravel-medialibrary"
+-> php artisan vendor:publish --provider="Spatie\MediaLibrary\MediaLibraryServiceProvider" --tag="medialibrary-migrations"
+-> php artisan migrate
+
+

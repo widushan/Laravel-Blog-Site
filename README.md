@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ui-avatars.com/api/?name=Nexlify&background=0D8ABC&color=fff&size=150&rounded=true" alt="Nexlify Logo" width="150" />
+  <img src="public/blog_logo.svg" alt="Nexlify Logo" width="150" />
 
   # ✍️ Nexlify — Laravel Blog Site
 
